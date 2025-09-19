@@ -1,14 +1,13 @@
 ## Hi! I'm Isaac
  
 - 👾 Software engineer with 4 years of experience
-- 🎯 Focused on software development, system design, and cloud computing 
+- 🎯 Focused on software development, system design, and cloud computing
 - 🔎 Check out some of my projects:
   - [Automation testing project with Selenium](https://github.com/IsaacTai123/selenium-java-web-automation.git) - Java
   - [Web server for a badminton club](https://github.com/IsaacTai123/BadmintonClub.git) - React
-  - [Enterprise Procurement & Vendor Management System](https://github.com/IsaacTai123/procurement_ecosystem.git) - Java  
-
-- 😁 Passionate about clean architecture, backend systems, and exploring cloud solutions  
-- 🌱 I enjoy solving problems with technology — sometimes experimenting with advanced tools even when a simpler solution exists. For me, it’s both a way to learn and a source of accomplishment.  
+  - [Enterprise Procurement & Vendor Management System](https://github.com/IsaacTai123/procurement_ecosystem.git) - Java
+- 😁 Passionate about clean architecture, backend systems, and exploring cloud solutions
+- 🌱 I enjoy solving problems with technology — sometimes experimenting with advanced tools even when a simpler solution exists. For me, it’s both a way to learn and a source of accomplishment.
 - 🎯 While I’m mindful not to over-engineer, I see every project as a chance to explore and grow my technical toolkit.
 - 📫 How to reach me: [LinkedIn](linkedin.com/in/hsuanhung-tai)
 
