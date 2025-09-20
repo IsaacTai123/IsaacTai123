@@ -6,10 +6,10 @@
   - [Automation testing project with Selenium](https://github.com/IsaacTai123/selenium-java-web-automation.git) - Java
   - [Web server for a badminton club](https://github.com/IsaacTai123/BadmintonClub.git) - React
   - [Enterprise Procurement & Vendor Management System](https://github.com/IsaacTai123/procurement_ecosystem.git) - Java
-- 😁 Passionate about clean architecture, backend systems, and exploring cloud solutions
-- 🌱 I enjoy solving problems with technology — sometimes experimenting with advanced tools even when a simpler solution exists. For me, it’s both a way to learn and a source of accomplishment.
-- 🎯 While I’m mindful not to over-engineer, I see every project as a chance to explore and grow my technical toolkit.
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/hsuanhung-tai) | [Email me directly](message-demur49@icloud.com)
+- 😁 Passionate about building scalable backend systems, exploring new tools, and deploying to the cloud.
+- 🌱 Solving problems through technology, while continuously exploring better tools and approaches.
+- 🎯 Every project is a chance to learn, experiment, and expand my technical toolkit
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/hsuanhung-tai) | [Email Me](mailto:message-demur49@icloud.com?subject=Reaching%20out%20from%20GitHub&body=Hi%20Isaac,%0D%0A%0D%0AI%20saw%20your%20GitHub%20profile%20and...)
 
 ## 🛠️ Skills
 
