@@ -9,7 +9,7 @@
 - 😁 Passionate about clean architecture, backend systems, and exploring cloud solutions
 - 🌱 I enjoy solving problems with technology — sometimes experimenting with advanced tools even when a simpler solution exists. For me, it’s both a way to learn and a source of accomplishment.
 - 🎯 While I’m mindful not to over-engineer, I see every project as a chance to explore and grow my technical toolkit.
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/hsuanhung-tai)
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/hsuanhung-tai) | [Email me directly](message-demur49@icloud.com)
 
 ## 🛠️ Skills
 
